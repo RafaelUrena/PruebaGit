@@ -14,6 +14,8 @@
     <body>
         <h1>Esto hace suma</h1>
         
-        <p>1 + 1 = 2</p>
+        <p>1 + 1</p>
+        <p>=</p>
+        <p>2</p>
     </body>
 </html>
