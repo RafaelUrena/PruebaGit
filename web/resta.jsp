@@ -13,6 +13,6 @@
     </head>
     <body>
         <h1>Esto hace la resta</h1>
-        <p></p>
+        <p> </p>
     </body>
 </html>

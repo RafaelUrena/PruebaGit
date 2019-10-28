@@ -13,8 +13,7 @@
     </head>
     <body>
         <h1>Esto es una multiplicacion</h1>
-        <p>2x2</p>
-        <p>4</p>
-        <p>XD</p>
+        <p>16</p>
+        <p>16</p>
     </body>
 </html>
